@@ -1,2 +1,4 @@
 <!Doctype html>
 <!-- Doctype é um DTD -->
+<html>
+</html>
